@@ -13,6 +13,6 @@ and open the template in the editor.
 	<?php
 	// put your code here
 	?>
-	Test 22000
+	Test 22000abc
     </body>
 </html>
